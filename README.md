@@ -8,7 +8,7 @@
 ### oa漏洞检测功能（未写完）
 ![image](https://github.com/user-attachments/assets/12b06b6e-9a38-49bb-84b7-460eb5062514)
 
-### 数据库漏洞利用（未写完）
+### 数据库漏洞利用（未写完，基于MDUT编写）
 ![image](https://github.com/user-attachments/assets/bcf0aaf3-67f7-43bc-a4ec-bbf107a12190)
 
 ### oss等的利用 （未写完）
